@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestingBaba]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Webtable_test(failed)">
+    <classes>
+      <class name="Testingbaba_test.Webtable_test">
+        <methods>
+          <include name="nameVarification"/>
+          <include name="launchTestingBabaURl"/>
+        </methods>
+      </class> <!-- Testingbaba_test.Webtable_test -->
+    </classes>
+  </test> <!-- Webtable_test(failed) -->
+</suite> <!-- Failed suite [TestingBaba] -->

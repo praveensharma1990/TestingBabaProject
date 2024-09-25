@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T01:40:23 IST" name="Default suite" finished-at="2024-07-18T01:40:44 IST" duration-ms="21153">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T01:40:23 IST" name="Default test" finished-at="2024-07-18T01:40:44 IST" duration-ms="21153">
+      <class name="Testingbaba_test.datePicker_test">
+        <test-method is-config="true" signature="launchTestingBabaURl()[pri:0, instance:Testingbaba_test.datePicker_test@20d525]" started-at="2024-07-18T01:40:23 IST" name="launchTestingBabaURl" finished-at="2024-07-18T01:40:32 IST" duration-ms="9092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTestingBabaURl -->
+        <test-method signature="clickOn_Widgets_datePicker()[pri:1, instance:Testingbaba_test.datePicker_test@20d525]" started-at="2024-07-18T01:40:32 IST" name="clickOn_Widgets_datePicker" finished-at="2024-07-18T01:40:33 IST" duration-ms="537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOn_Widgets_datePicker -->
+        <test-method is-config="true" signature="getResultAnalysis(org.testng.ITestResult)[pri:0, instance:Testingbaba_test.datePicker_test@20d525]" started-at="2024-07-18T01:40:33 IST" name="getResultAnalysis" finished-at="2024-07-18T01:40:33 IST" duration-ms="296" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOn_Widgets_datePicker status=SUCCESS method=datePicker_test.clickOn_Widgets_datePicker()[pri:1, instance:Testingbaba_test.datePicker_test@20d525] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultAnalysis -->
+        <test-method signature="select_Date()[pri:2, instance:Testingbaba_test.datePicker_test@20d525]" started-at="2024-07-18T01:40:33 IST" name="select_Date" finished-at="2024-07-18T01:40:44 IST" duration-ms="10443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Date -->
+        <test-method is-config="true" signature="getResultAnalysis(org.testng.ITestResult)[pri:0, instance:Testingbaba_test.datePicker_test@20d525]" started-at="2024-07-18T01:40:44 IST" name="getResultAnalysis" finished-at="2024-07-18T01:40:44 IST" duration-ms="285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=select_Date status=SUCCESS method=datePicker_test.select_Date()[pri:2, instance:Testingbaba_test.datePicker_test@20d525] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResultAnalysis -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testingbaba_test.datePicker_test@20d525]" started-at="2024-07-18T01:40:44 IST" name="teardown" finished-at="2024-07-18T01:40:44 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testingbaba_test.datePicker_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
